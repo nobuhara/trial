@@ -1,0 +1,5 @@
+centOSを用いたruby on rails 構築
+http://qiita.com/Salinger/items/20f466ffe7cc0c04b010
+
+rails構築した後、何すれば良いの？って人向け
+https://openbook4.me/projects/92/sections/489

@@ -1,0 +1,15 @@
+linux環境で開発する際、vimが便利です。
+
+vimの構築は以下を見てください。
+http://qiita.com/SOJO/items/9d6a65f3da941c49da36
+
+構築した後は、以下を参照。
+vimrcを構築したいとき、参考サイト
+http://vimblog.hatenablog.com/entry/vimrc_set_recommended_options
+
+ちなみに、vimrcの使いかたは
+vim -u vimrc
+コマンドで出来ます。参考まで。
+
+参考サイト
+http://vim-jp.org/vimdoc-ja/starting.html
